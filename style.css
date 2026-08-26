@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body { margin: 0; background: #eef3f8; color: #1d2939; font-family: Arial, sans-serif; }
+.container { width: min(1050px, 92%); margin: 40px auto; }.small-container { max-width: 620px; }
+h1, h2 { color: #123d72; }.intro { color: #526477; }.card { background: white; padding: 25px; margin: 25px 0; border-radius: 10px; box-shadow: 0 4px 15px #123d721c; }
+label { display: block; margin-top: 13px; font-weight: bold; } input { width: 100%; padding: 11px; margin-top: 5px; border: 1px solid #b9c8d8; border-radius: 5px; }
+button, .back { display: inline-block; background: #123d72; color: white; border: 0; padding: 10px 15px; border-radius: 5px; cursor: pointer; text-decoration: none; margin-top: 18px; }
+.message { background: #dff4e4; color: #186b35; padding: 12px; border-radius: 5px; }.table-wrap { overflow-x: auto; } table { width: 100%; border-collapse: collapse; } th, td { padding: 12px; border-bottom: 1px solid #d7e0ea; text-align: left; } th { background: #123d72; color: white; }
+.actions { display: flex; gap: 8px; align-items: center; }.actions form { margin: 0; }.edit { background: #e9a536; color: #1d2939; padding: 8px 11px; border-radius: 5px; text-decoration: none; font-weight: bold; }.delete { background: #b53535; margin: 0; padding: 8px 11px; }
