@@ -1,4 +1,4 @@
-# PHP MySQL CRUD Follow-up Assignment
+# PHP MySQL CRUD Assignment
 
 ## Project Name
 
